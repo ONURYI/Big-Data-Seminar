@@ -13,8 +13,3 @@ In diesem Repository finden Sie folgende Materialien:
 ## Nutzung 🛠️
 
 Die bereitgestellten Materialien sind primär für die Teilnehmer des Seminars gedacht, können jedoch von jedem genutzt werden, der sich für das Thema Batch Processing interessiert. Wir hoffen, dass diese Ressourcen Ihnen helfen, Ihr Verständnis für Big Data Processing zu vertiefen.
-
-
-## Kontakt 📬
-
-Für weitere Informationen oder Fragen wenden Sie sich bitte direkt an Onur Yilmaz oder Sam.
